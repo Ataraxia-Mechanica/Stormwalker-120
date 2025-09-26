@@ -1,0 +1,11 @@
+# ignore all . files and . folders
+.*
+
+# Dont ignore .gitignore and .gitattributes
+!/.git*
+
+# Blender backups
+*.blend1
+
+# Kicad backups
+*-backups
