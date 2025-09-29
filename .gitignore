@@ -7,5 +7,7 @@
 # Blender backups
 *.blend1
 
-# Kicad backups
+# Kicad stuff
 *-backups
+*-cache
+~*
