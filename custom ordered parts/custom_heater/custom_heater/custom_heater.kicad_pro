@@ -516,7 +516,7 @@
       "plot": "heater_grb/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "custom_heater.glb",
       "svg": "",
       "vrml": ""
     },
