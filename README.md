@@ -1,5 +1,9 @@
 # Stormwalker 120
 
+Discord server:
+
+https://discord.gg/DXYpTaRm
+
 Stormwalker 120 is a Voron 0 sized (120mm^3 build size), ultra fast 3D printer designed for rapid prototyping. Press and forget, go through iterations in minutes!
 
 ![in enclosure](https://github.com/user-attachments/assets/34c4acfa-1646-4e71-87a6-abd4112cffa9)
